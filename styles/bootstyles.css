@@ -1,0 +1,45 @@
+/* Dallas Goolsby - 6/9/22 */
+
+* { font-family: Verdana, Geneva, Tahoma, sans-serif!important;}
+  body {
+    background-color: whitesmoke;
+  }
+
+
+
+.header{
+    top: 0.1px;
+    left: 0.1px;
+    right: 0.1px;
+    height: 500px;
+    text-align: right;
+    background-image: url("http://dev3lop.com/wp-content/uploads/2017/04/tableau-logo-tableau-software.jpg"); 
+    position:absolute;
+
+}
+
+
+.main{
+    
+    top: 501px;
+    left: 0px;
+    right: 0px;
+    bottom: 301px;
+    height: 4485px;
+    position: absolute;
+    background-color: rgb(199, 199, 199) 
+    
+}
+
+.footer{
+    top: 4990px;
+    left: 0.1px;
+    right: 0.1px;
+    bottom: 0px;
+    height: 300px;
+    position:absolute;
+   border-top: solid rgb(219, 218, 218) 1px
+    
+}
+
+
